@@ -1,1 +1,6 @@
 streamlit
+pydot
+graphviz
+tensorflow
+opencv-python 
+mediapipe
