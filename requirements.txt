@@ -4,3 +4,4 @@ graphviz
 tensorflow
 opencv-python 
 mediapipe
+matplotlib
